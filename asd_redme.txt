@@ -1,0 +1,12 @@
+->Backend series started with chai aur code hitesh choudhari
+-> npm  init   or npm init -y (used to create blank backend project) node package manager initialize to your project 
+->install express for creating server  (npm i express)
+
+//more important concept while deploying app on production grade to take care of all confedential details
+->install dotenv to secure youe confedential data like data base credentials,port much more (npm i dotenv)
+
+
+//more important 
+->.gitignore file must be created into your project folder to avoid files and folder which you are do not want send on github account/storage loation
+
+
